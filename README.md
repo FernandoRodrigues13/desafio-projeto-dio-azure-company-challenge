@@ -13,4 +13,4 @@ Aprendi a utilizar uma das ferramentas de análise de sentimentos para saber o p
 ## Evidências (Imagens)
 Abaixo está a captura de tela solicitada no desafio:
 
-![Imagens do trabalho feito na plataforma azure(./NOME_DO_ARQUIVO.jpg)
+![Imagens do trabalho feito na plataforma azure](Análise de sentimento.png)
