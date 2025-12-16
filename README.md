@@ -1,4 +1,4 @@
-# Desafio de Projeto: [Nome do Desafio Aqui]
+# Desafio de Projeto: [Azure Speech Studio e Language Studio]
 
 ## Descrição
 Este repositório contém a entrega do desafio de projeto sobre criação de recursos e analise de sentimentos.
